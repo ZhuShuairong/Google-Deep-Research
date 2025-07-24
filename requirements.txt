@@ -1,0 +1,9 @@
+streamlit==1.39.0
+langchain-ollama==0.1.7
+langchain==0.2.11
+requests==2.32.3
+beautifulsoup4==4.12.3
+playwright==1.45.0
+pandas==2.2.3
+pydantic==2.8.2
+typing-extensions==4.12.2
