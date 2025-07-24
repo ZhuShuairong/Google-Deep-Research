@@ -32,3 +32,10 @@ Before running the project, ensure you have:
 3. **Google API Key** and **Custom Search Engine (CSE) ID**
    - Get them from: https://developers.google.com/custom-search/v1/introduction
 4. **Playwright** dependencies installed
+
+## Running it all
+
+pip install -r requirements.txt
+ollama run granite3.3:2b
+playwright install chromium
+streamlit run research_gui.py
